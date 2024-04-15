@@ -1,0 +1,3 @@
+[submodule "crowd-fund/lib/forge-std"]
+	path = crowd-fund/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
